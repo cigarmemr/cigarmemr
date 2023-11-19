@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cigarmemr
 - 👀 I’m interested in programming skills, problem solving, gaming etc.
-- 🌱 I’m currently learning Python, Excel, M(industry)asm etc.
+- 🌱 I’m currently learning Python, Excel, JavaScript, etc.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
